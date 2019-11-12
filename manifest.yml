@@ -1,0 +1,5 @@
+applications:
+- name: node-red-workshop-cats-goats
+  memory: 256MB
+  instances: 1
+
